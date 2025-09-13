@@ -1,0 +1,26 @@
+Country,Segment,segment_sales,segment_profit
+Canada,Government,10741236.52,2258471.52
+Canada,Small Business,9177549.0,900799.0
+Canada,Enterprise,3967491.25,42980.0
+Canada,Midmarket,510213.98,132488.98
+Canada,Channel Partners,491164.14,358978.14
+France,Government,12127782.72,2709915.22
+France,Small Business,7369606.5,730731.5
+France,Enterprise,3890890.63,29984.38
+France,Midmarket,593802.08,164542.08
+France,Channel Partners,372090.36,271581.36
+Germany,Government,11452895.94,2677175.94
+Germany,Small Business,7327848.0,771973.0
+Germany,Enterprise,4086826.25,39022.5
+Germany,Channel Partners,336425.88,247358.88
+Germany,Midmarket,301344.75,85354.75
+Mexico,Government,9791599.38,2039159.38
+Mexico,Small Business,7096356.0,667606.0
+Mexico,Enterprise,3315881.25,25021.25
+Mexico,Midmarket,511136.4,150546.4
+Mexico,Channel Partners,234379.08000000002,170890.08000000002
+United States of America,Small Business,11456559.0,1072059.0
+United States of America,Government,8390746.12,1703451.12
+United States of America,Enterprise,4350605.0,25767.5
+United States of America,Midmarket,465385.88,127170.88
+United States of America,Channel Partners,366534.18,267994.68

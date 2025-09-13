@@ -1,0 +1,5 @@
+DiscountBand,avg_discount,total_sales,total_profit
+ Medium ,12407.22,38780430.84,5734475.34
+ High ,21702.15,37372486.74,4011235.49
+ Low ,5535.47,34629778.71,6188857.71
+ None ,,7943654.0,1736455.0
